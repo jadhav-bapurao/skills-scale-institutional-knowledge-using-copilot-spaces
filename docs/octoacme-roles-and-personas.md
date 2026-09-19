@@ -177,3 +177,4 @@ Architecture / Platform Leads define technical direction, integration constraint
 - Supports Product Managers and PMs with sequencing and dependency planning
 - Coordinates with Security and QA on architecture-related risk and validation
 - Helps leadership assess technical feasibility and long-term platform impact
+
